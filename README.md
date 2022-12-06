@@ -1,4 +1,4 @@
-
+[![MasterHead](https://github.com/Salman-Abdulqadir/Salman-Abdulqadir/blob/main/linkedin%20banner.png)](https://github/salman-abdulqadir)
 <h1 align="center">Hi 👋, I'm Salman</h1>
 <h3 align="center">A cybersecurity student and full stack web developer</h3>
 
